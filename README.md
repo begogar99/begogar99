@@ -14,18 +14,15 @@
 
 <div id="badges">
   <a href="mailto:begogar99@gmail.com">
-    <img src="https://github.com/begogar99/begogar99/assets/134455384/981baa9f-3609-4dd3-bd1c-1fcbca4db1ae" alt="Email Badge"/>
-  </a>
+  <img height="100" src="https://img.icons8.com/?size=512&id=108806&format=png"/>
+</a>
   <a href="mailto:begogar9@uw.edu">
-    <img src="https://github.com/begogar99/begogar99/assets/134455384/88f5bb45-c428-41f5-80ea-192c9f6310c9" alt="UW Email Badge"/>
-  </a>
+  <img height="100" src="https://img.icons8.com/?size=512&id=109686&format=png"/>
+</a>
   <a href="https://www.linkedin.com/in/begonagarciamalaxechebarria/">
-    <img src="https://github.com/begogar99/begogar99/assets/134455384/14877171-5d6c-49a7-8f9e-409941e93e43" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-URL">
-    <img src="https://github.com/begogar99/begogar99/assets/134455384/9c33ca58-74d7-4f95-88fb-3dec73cd92a8" alt="Resume Badge"/>
-  </a>
+  <img height="100" src="https://img.icons8.com/?size=512&id=64154&format=png"/>
+</a>
+  <a href="URL">
+  <img height="100" src="https://img.icons8.com/?size=512&id=115648&format=png"/>
+</a>
 </div>
-
-
-
