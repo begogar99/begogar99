@@ -13,11 +13,8 @@
 ## Contact me
 
 <div id="badges">
-  <a href="mailto:begogar99@gmail.com">
-  <img height="100" src="https://img.icons8.com/?size=512&id=108806&format=png"/>
-</a>
   <a href="mailto:begogar9@uw.edu">
-  <img height="100" src="https://img.icons8.com/?size=512&id=109686&format=png"/>
+  <img height="100" src="https://img.icons8.com/?size=512&id=108806&format=png"/>
 </a>
   <a href="https://www.linkedin.com/in/begonagarciamalaxechebarria/">
   <img height="100" src="https://img.icons8.com/?size=512&id=64154&format=png"/>
