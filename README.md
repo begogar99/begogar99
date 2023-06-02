@@ -20,9 +20,6 @@
   <img height="100" src="https://img.icons8.com/?size=512&id=64154&format=png"/>
 </a>
   <a href="https://begogar99.github.io/">
-  <img height="100" src="https://img.icons8.com/?size=512&id=115648&format=png"/>
-</a>
-  <a href="URL">
-  <img height="100" src="https://img.icons8.com/?size=512&id=115648&format=png"/>
+  <img height="100" src="https://img.icons8.com/?size=512&id=111139&format=png"/>
 </a>
 </div>
