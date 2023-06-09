@@ -8,7 +8,7 @@
 - 🇪🇸 I am from Spain
 - 👩🏼‍💼 I am a Mathematics PhD Student at University of Washington
 - 👩🏼‍🏫 I am a Predoctoral Teaching Associate for the Department of Mathematics at University of Washington
-- 👩🏼‍💻 I am currently transitioning into the field of Machine Learning
+- 👩🏼‍💻 I am currently transitioning into the field of Machine Learning and Computer Vision
 
 ## Contact me
 
