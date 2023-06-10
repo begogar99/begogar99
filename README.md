@@ -1,5 +1,5 @@
 <div align="center">
-  <center><h2>¡Bienvenido! I'm Begoña 👋🏼 🙋🏼‍♀️</h2></center>
+  <center><h2>¡Bienvenido! I am Begoña 👋🏼 🙋🏼‍♀️</h2></center>
 </div>
 <p align="center"><img src="https://github.com/begogar99/begogar99/assets/134455384/c6c41c3c-7f96-4b6c-90c9-0b20b02ffa07" width="400"  /></p>
 
