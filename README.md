@@ -13,13 +13,16 @@
 ## Contact me
 
 <div id="badges">
-  <a href="mailto:begogar9@uw.edu">
+  <a href="mailto:begogar9@uw.edu" target="_blank">
   <img height="100" src="https://img.icons8.com/?size=512&id=108806&format=png"/>
 </a>
-  <a href="https://www.linkedin.com/in/begonagarciamalaxechebarria/">
+  <a href="https://www.linkedin.com/in/begonagarciamalaxechebarria/" target="_blank">
   <img height="100" src="https://img.icons8.com/?size=512&id=64154&format=png"/>
 </a>
-  <a href="https://begogar99.github.io/">
+  <a href="https://begogar99.github.io/" target="_blank">
   <img height="100" src="https://img.icons8.com/?size=512&id=111139&format=png"/>
+</a>
+  <a href="https://scholar.google.com/citations?user=J_c9H4UAAAAJ&hl=en" target="_blank">
+  <img height="100" src="https://img.icons8.com/?size=512&id=108806&format=png"/>
 </a>
 </div>
